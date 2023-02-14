@@ -1,11 +1,9 @@
 import random
-import prompt
-
+from brain_games.scripts import brain_games
 
 def play_gcd():
-    print('Welcome to the Brain Games!')
-    name = prompt.string('May I have your name? ')
-    print(f'Hello, {name}!\nWhat is the result '
+    brain_games.main()
+    print(f'What is the result '
           f'of the expression?')
     count = 0
     while count < 3:

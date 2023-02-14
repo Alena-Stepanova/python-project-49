@@ -1,11 +1,10 @@
 import random
-import prompt
+from brain_games.scripts import brain_games
 
 
 def play_even():
-    print('Welcome to the Brain Games!')
-    name = prompt.string('May I have your name? ')
-    print(f'Hello, {name}!\nAnswer "yes" if the number '
+    brain_games.main()
+    print(f'Answer "yes" if the number '
           f'is even, otherwise answer "no".')
     count = 0
     while count < 3:
