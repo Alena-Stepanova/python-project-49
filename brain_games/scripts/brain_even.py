@@ -1,9 +1,9 @@
 import random
-from brain_games.scripts import brain_games
+from brain_games import main
 
 
 def play_even():
-    name = brain_games.main()
+    name = main()
     print(f'Answer "yes" if the number '
           f'is even, otherwise answer "no".')
     count = 0

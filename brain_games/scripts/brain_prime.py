@@ -1,9 +1,9 @@
 import random
-from brain_games.scripts import brain_games
+from brain_games import main
 
 
 def play_prime():
-    name = brain_games.main()
+    name = main()
     print(f'Answer "yes"'
           f'if the number is even, otherwise answer "no".')
     count = 0

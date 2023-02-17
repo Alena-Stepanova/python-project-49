@@ -1,9 +1,9 @@
 import random
-from brain_games.scripts import brain_games
+from brain_games import main
 
 
 def play_gcd():
-    name = brain_games.main()
+    name = main()
     print(f'What is the result '
           f'of the expression?')
     count = 0

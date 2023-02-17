@@ -1,9 +1,9 @@
 import random
-from brain_games.scripts import brain_games
+from brain_games import main
 
 
 def play_calc():
-    name = brain_games.main()
+    name = main()
     print('What is the result of the expression?')
     count = 0
     while count < 3:
