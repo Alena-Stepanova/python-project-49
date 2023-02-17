@@ -3,8 +3,8 @@ from brain_games.scripts import brain_games
 
 
 def play_progression():
-    brain_games.main()
-    print(f'What is the result of the expression?')
+    name = brain_games.main()
+    print('What is the result of the expression?')
     count = 0
     while count < 3:
         lst = [i for i in range(random.randint(1, 5),

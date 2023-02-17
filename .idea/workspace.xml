@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4b9b683-77f1-4790-8424-b00ad445313d" name="Changes" comment="Ready">
-      <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_gcd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_progression.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_progression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,13 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/chern/Documents/GitHub/python-project-49"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/chern/Documents/GitHub/python-project-49&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\chern\Documents\GitHub\python-project-49\brain_games\scripts" />
@@ -126,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676392944951</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ready">
+      <created>1676394674109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676394674109</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

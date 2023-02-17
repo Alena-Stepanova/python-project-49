@@ -3,7 +3,7 @@ from brain_games.scripts import brain_games
 
 
 def play_prime():
-    brain_games.main()
+    name = brain_games.main()
     print(f'Answer "yes"'
           f'if the number is even, otherwise answer "no".')
     count = 0

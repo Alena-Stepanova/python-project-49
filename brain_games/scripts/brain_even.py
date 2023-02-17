@@ -3,7 +3,7 @@ from brain_games.scripts import brain_games
 
 
 def play_even():
-    brain_games.main()
+    name = brain_games.main()
     print(f'Answer "yes" if the number '
           f'is even, otherwise answer "no".')
     count = 0

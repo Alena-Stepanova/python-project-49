@@ -3,7 +3,7 @@ from brain_games.scripts import brain_games
 
 
 def play_calc():
-    brain_games.main()
+    name = brain_games.main()
     print('What is the result of the expression?')
     count = 0
     while count < 3:
